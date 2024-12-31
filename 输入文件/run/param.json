@@ -1,0 +1,212 @@
+{
+     "type_map": ["Cs","Pb","Br"],
+     "mass_map": [133,207,80],
+     "init_data_prefix": "../",
+     "init_data_sys": ["init-cubic/cubic222.poscar.01x01x01/02.md/sys-0008-0008-0024/deepmd",
+                       "init-tetra/tetra222.poscar.01x01x01/02.md/sys-0008-0008-0024/deepmd",
+                       "init-ortho-pnma/pnma211.poscar.01x01x01/02.md/sys-0024-0008-0008/deepmd",
+                       "init-ortho-cmcm/cmcm111.poscar.01x01x01/02.md/sys-0008-0008-0024/deepmd"
+                      ],
+     "sys_configs_prefix": "../",
+     "sys_configs": [
+         ["/home/hsh/learnmd/study/1/dpgen/CsPbBr3/shujuji/cmcm/0-5/*/POSCAR"],
+         ["/home/hsh/learnmd/study/1/dpgen/CsPbBr3/shujuji/cubic/0-5/*/POSCAR"],
+         ["/home/hsh/learnmd/study/1/dpgen/CsPbBr3/shujuji/pnma/0-5/*/POSCAR"],
+         ["/home/hsh/learnmd/study/1/dpgen/CsPbBr3/shujuji/tetra/0-5/*/POSCAR"],
+         ["/home/hsh/learnmd/study/1/dpgen/CsPbBr3/shujuji/cmcm/1-10/*/POSCAR"],
+         ["/home/hsh/learnmd/study/1/dpgen/CsPbBr3/shujuji/cubic/1-10/*/POSCAR"],
+         ["/home/hsh/learnmd/study/1/dpgen/CsPbBr3/shujuji/pnma/1-10/*/POSCAR"],
+         ["/home/hsh/learnmd/study/1/dpgen/CsPbBr3/shujuji/tetra/1-10/*/POSCAR"],
+         ["/home/hsh/learnmd/study/1/dpgen/CsPbBr3/shujuji/cmcm/2-10/*/POSCAR"],
+         ["/home/hsh/learnmd/study/1/dpgen/CsPbBr3/shujuji/cubic/2-10/*/POSCAR"],
+         ["/home/hsh/learnmd/study/1/dpgen/CsPbBr3/shujuji/pnma/2-10/*/POSCAR"],
+         ["/home/hsh/learnmd/study/1/dpgen/CsPbBr3/shujuji/tetra/2-10/*/POSCAR"],
+         ["/home/hsh/learnmd/study/1/dpgen/CsPbBr3/shujuji/cmcm/3-5/*/POSCAR"],
+         ["/home/hsh/learnmd/study/1/dpgen/CsPbBr3/shujuji/cubic/3-5/*/POSCAR"],
+         ["/home/hsh/learnmd/study/1/dpgen/CsPbBr3/shujuji/pnma/3-5/*/POSCAR"],
+         ["/home/hsh/learnmd/study/1/dpgen/CsPbBr3/shujuji/tetra/3-5/*/POSCAR"],
+
+         ["/home/hsh/learnmd/study/1/dpgen/CsPbBr3/shujuji/cmcm/4-5/*/POSCAR"],
+         ["/home/hsh/learnmd/study/1/dpgen/CsPbBr3/shujuji/cubic/4-5/*/POSCAR"], 
+         ["/home/hsh/learnmd/study/1/dpgen/CsPbBr3/shujuji/pnma/4-5/*/POSCAR"],
+         ["/home/hsh/learnmd/study/1/dpgen/CsPbBr3/shujuji/tetra/4-5/*/POSCAR"],
+         ["/home/hsh/learnmd/study/1/dpgen/CsPbBr3/shujuji/cmcm/4-10/*/POSCAR"],
+         ["/home/hsh/learnmd/study/1/dpgen/CsPbBr3/shujuji/cubic/4-10/*/POSCAR"],
+         ["/home/hsh/learnmd/study/1/dpgen/CsPbBr3/shujuji/pnma/4-10/*/POSCAR"],
+         ["/home/hsh/learnmd/study/1/dpgen/CsPbBr3/shujuji/tetra/4-10/*/POSCAR"],
+         ["/home/hsh/learnmd/study/1/dpgen/CsPbBr3/shujuji/cmcm/5-10/*/POSCAR"],
+         ["/home/hsh/learnmd/study/1/dpgen/CsPbBr3/shujuji/cubic/5-10/*/POSCAR"],
+         ["/home/hsh/learnmd/study/1/dpgen/CsPbBr3/shujuji/pnma/5-10/*/POSCAR"],
+         ["/home/hsh/learnmd/study/1/dpgen/CsPbBr3/shujuji/tetra/5-10/*/POSCAR"],
+         ["/home/hsh/learnmd/study/1/dpgen/CsPbBr3/shujuji/cmcm/6-5/*/POSCAR"],
+         ["/home/hsh/learnmd/study/1/dpgen/CsPbBr3/shujuji/cubic/6-5/*/POSCAR"],
+         ["/home/hsh/learnmd/study/1/dpgen/CsPbBr3/shujuji/pnma/6-5/*/POSCAR"],
+         ["/home/hsh/learnmd/study/1/dpgen/CsPbBr3/shujuji/tetra/6-5/*/POSCAR"],
+
+         ["/home/hsh/learnmd/study/1/dpgen/CsPbBr3/shujuji/cmcm/7-5/*/POSCAR"],
+         ["/home/hsh/learnmd/study/1/dpgen/CsPbBr3/shujuji/cubic/7-5/*/POSCAR"],
+         ["/home/hsh/learnmd/study/1/dpgen/CsPbBr3/shujuji/pnma/7-5/*/POSCAR"],
+         ["/home/hsh/learnmd/study/1/dpgen/CsPbBr3/shujuji/tetra/7-5/*/POSCAR"],
+         ["/home/hsh/learnmd/study/1/dpgen/CsPbBr3/shujuji/cmcm/7-10/*/POSCAR"],
+         ["/home/hsh/learnmd/study/1/dpgen/CsPbBr3/shujuji/cubic/7-10/*/POSCAR"],
+         ["/home/hsh/learnmd/study/1/dpgen/CsPbBr3/shujuji/pnma/7-10/*/POSCAR"],
+         ["/home/hsh/learnmd/study/1/dpgen/CsPbBr3/shujuji/tetra/7-10/*/POSCAR"],
+         ["/home/hsh/learnmd/study/1/dpgen/CsPbBr3/shujuji/cmcm/8-10/*/POSCAR"],
+         ["/home/hsh/learnmd/study/1/dpgen/CsPbBr3/shujuji/cubic/8-10/*/POSCAR"],
+         ["/home/hsh/learnmd/study/1/dpgen/CsPbBr3/shujuji/pnma/8-10/*/POSCAR"],
+         ["/home/hsh/learnmd/study/1/dpgen/CsPbBr3/shujuji/tetra/8-10/*/POSCAR"],
+         ["/home/hsh/learnmd/study/1/dpgen/CsPbBr3/shujuji/cmcm/9-5/*/POSCAR"],
+         ["/home/hsh/learnmd/study/1/dpgen/CsPbBr3/shujuji/cubic/9-5/*/POSCAR"],
+         ["/home/hsh/learnmd/study/1/dpgen/CsPbBr3/shujuji/pnma/9-5/*/POSCAR"],
+         ["/home/hsh/learnmd/study/1/dpgen/CsPbBr3/shujuji/tetra/9-5/*/POSCAR"],
+
+
+         ["/home/hsh/learnmd/study/1/dpgen/CsPbBr3/shujuji/cmcm/10-5/*/POSCAR"],
+         ["/home/hsh/learnmd/study/1/dpgen/CsPbBr3/shujuji/cubic/10-5/*/POSCAR"],
+         ["/home/hsh/learnmd/study/1/dpgen/CsPbBr3/shujuji/pnma/10-5/*/POSCAR"],
+         ["/home/hsh/learnmd/study/1/dpgen/CsPbBr3/shujuji/tetra/10-5/*/POSCAR"],
+         ["/home/hsh/learnmd/study/1/dpgen/CsPbBr3/shujuji/cmcm/10-10/*/POSCAR"],
+         ["/home/hsh/learnmd/study/1/dpgen/CsPbBr3/shujuji/cubic/10-10/*/POSCAR"],
+         ["/home/hsh/learnmd/study/1/dpgen/CsPbBr3/shujuji/pnma/10-10/*/POSCAR"],
+         ["/home/hsh/learnmd/study/1/dpgen/CsPbBr3/shujuji/tetra/10-10/*/POSCAR"],
+         ["/home/hsh/learnmd/study/1/dpgen/CsPbBr3/shujuji/cmcm/11-10/*/POSCAR"],
+         ["/home/hsh/learnmd/study/1/dpgen/CsPbBr3/shujuji/cubic/11-10/*/POSCAR"],
+         ["/home/hsh/learnmd/study/1/dpgen/CsPbBr3/shujuji/pnma/11-10/*/POSCAR"],
+         ["/home/hsh/learnmd/study/1/dpgen/CsPbBr3/shujuji/tetra/11-10/*/POSCAR"],
+         ["/home/hsh/learnmd/study/1/dpgen/CsPbBr3/shujuji/cmcm/11-5/*/POSCAR"],
+         ["/home/hsh/learnmd/study/1/dpgen/CsPbBr3/shujuji/cubic/11-5/*/POSCAR"],
+         ["/home/hsh/learnmd/study/1/dpgen/CsPbBr3/shujuji/pnma/11-5/*/POSCAR"],
+         ["/home/hsh/learnmd/study/1/dpgen/CsPbBr3/shujuji/tetra/11-5/*/POSCAR"],
+
+         ["/home/hsh/learnmd/study/1/dpgen/CsPbBr3/shujuji/cmcm/12-10/*/POSCAR"],
+         ["/home/hsh/learnmd/study/1/dpgen/CsPbBr3/shujuji/cubic/12-10/*/POSCAR"],
+         ["/home/hsh/learnmd/study/1/dpgen/CsPbBr3/shujuji/pnma/12-10/*/POSCAR"],
+         ["/home/hsh/learnmd/study/1/dpgen/CsPbBr3/shujuji/tetra/12-10/*/POSCAR"],
+         ["/home/hsh/learnmd/study/1/dpgen/CsPbBr3/shujuji/cmcm/13-10/*/POSCAR"],
+         ["/home/hsh/learnmd/study/1/dpgen/CsPbBr3/shujuji/cubic/13-10/*/POSCAR"],
+         ["/home/hsh/learnmd/study/1/dpgen/CsPbBr3/shujuji/pnma/13-10/*/POSCAR"],
+         ["/home/hsh/learnmd/study/1/dpgen/CsPbBr3/shujuji/tetra/13-10/*/POSCAR"],
+         ["/home/hsh/learnmd/study/1/dpgen/CsPbBr3/shujuji/cmcm/14-10/*/POSCAR"],
+         ["/home/hsh/learnmd/study/1/dpgen/CsPbBr3/shujuji/cubic/14-10/*/POSCAR"],
+         ["/home/hsh/learnmd/study/1/dpgen/CsPbBr3/shujuji/pnma/14-10/*/POSCAR"],
+         ["/home/hsh/learnmd/study/1/dpgen/CsPbBr3/shujuji/tetra/14-10/*/POSCAR"],
+
+         ["/home/hsh/learnmd/study/1/dpgen/CsPbBr3/shujuji-defect/12-md/0-10/*/POSCAR"],
+         ["/home/hsh/learnmd/study/1/dpgen/CsPbBr3/shujuji-defect/35-md/0-10/*/POSCAR"],
+
+         ["/home/hsh/learnmd/study/1/dpgen/CsPbBr3/shujuji-defect/1-md/0-10/*/POSCAR"],
+         ["/home/hsh/learnmd/study/1/dpgen/CsPbBr3/shujuji-defect/3-md/0-10/*/POSCAR"],
+         ["/home/hsh/learnmd/study/1/dpgen/CsPbBr3/shujuji-defect/5-md/0-10/*/POSCAR"],
+         ["/home/hsh/learnmd/study/1/dpgen/CsPbBr3/shujuji-defect/7-md/0-10/*/POSCAR"],
+         ["/home/hsh/learnmd/study/1/dpgen/CsPbBr3/shujuji-defect/1-md/1-10/*/POSCAR"],
+         ["/home/hsh/learnmd/study/1/dpgen/CsPbBr3/shujuji-defect/3-md/1-10/*/POSCAR"],
+         ["/home/hsh/learnmd/study/1/dpgen/CsPbBr3/shujuji-defect/5-md/1-10/*/POSCAR"],
+         ["/home/hsh/learnmd/study/1/dpgen/CsPbBr3/shujuji-defect/7-md/1-10/*/POSCAR"],
+         ["/home/hsh/learnmd/study/1/dpgen/CsPbBr3/shujuji-defect/1-md/2-10/*/POSCAR"],
+         ["/home/hsh/learnmd/study/1/dpgen/CsPbBr3/shujuji-defect/3-md/2-10/*/POSCAR"],
+         ["/home/hsh/learnmd/study/1/dpgen/CsPbBr3/shujuji-defect/5-md/2-10/*/POSCAR"],
+         ["/home/hsh/learnmd/study/1/dpgen/CsPbBr3/shujuji-defect/7-md/2-10/*/POSCAR"]            
+
+
+         
+     ],
+     "_comment": " that's all ",
+     "numb_models": 4,
+     "default_training_param": {
+         "model": {
+             "type_map": ["Cs","Pb","Br"],
+             "descriptor": {
+                 "type": "se_e2_a", 
+                 "sel": "auto",
+                 "rcut_smth": 2.0,
+                 "rcut": 8.0,
+                 "neuron": [25,50,100],
+                 "resnet_dt": false,
+                 "axis_neuron": 16,
+                 "seed": 3397109743
+             },
+             "fitting_net": {
+                 "neuron": [240,240,240],
+                 "resnet_dt": true,
+                 "seed": 2766198549,
+                 "_comment" : "that's all"
+
+             }
+         },
+         "learning_rate": {
+             "type": "exp", 
+             "start_lr": 0.001,
+             "stop_lr" : 1e-8,
+             "decay_steps": 2000
+         },
+         "loss": {
+            "type":"ener", 
+             "start_pref_e": 0.02,
+             "limit_pref_e": 2,
+             "start_pref_f": 1000,
+             "limit_pref_f": 1,
+             "start_pref_v": 0.01,
+             "limit_pref_v": 1
+         },
+         "training": {
+            "training_data":{
+                "systems":
+                      [["init-cubic/cubic222.poscar.01x01x01/02.md/sys-0008-0008-0024/deepmd"],
+                       ["init-tetra/tetra222.poscar.01x01x01/02.md/sys-0008-0008-0024/deepmd"],
+                       ["init-ortho-pnma/pnma211.poscar.01x01x01/02.md/sys-0024-0008-0008/deepmd"],
+                       ["init-ortho-cmcm/cmcm111.poscar.01x01x01/02.md/sys-0008-0008-0024/deepmd"]
+                      ],
+                "batch_size":"auto"
+
+            },
+             "numb_steps": 400000,
+             "seed":2654632956,
+             "disp_file": "lcurve.out",
+             "disp_freq": 20000,
+             "save_freq": 20000,
+             "_comment": "that's all"
+         }
+     },
+     "model_devi_dt": 0.002,
+     "model_devi_skip": 0,
+     "model_devi_f_trust_lo": 0.05,
+     "model_devi_f_trust_hi": 0.30, 
+     "model_devi_e_trust_lo": 10000000000.0,
+     "model_devi_e_trust_hi": 10000000000.0,
+     "model_devi_clean_traj": true,
+     "model_devi_merge_traj": true,
+     "model_devi_jobs": [
+         {"sys_idx": [0,1,2,3],"temps": [50,100,150,200],"press": [1,10,100],"trj_freq": 10,"nsteps": 500,"ensemble": "npt","_idx": "00"},
+         {"sys_idx": [4,5,6,7],"temps": [50,100,150,200],"press": [1,10,100],"trj_freq": 10,"nsteps": 1000,"ensemble": "npt","_idx": "01"},
+         {"sys_idx": [8,9,10,11],"temps": [50,100,150,200],"press": [1,10,100],"trj_freq": 10,"nsteps": 2000,"ensemble": "npt","_idx": "02"},
+         {"sys_idx": [12,13,14,15],"temps": [50,100,150,200],"press": [1,10,100],"trj_freq": 10,"nsteps": 2000,"ensemble": "npt","_idx": "03"},
+
+         {"sys_idx": [16,17,18,19],"temps": [250,300,350,400],"press": [1,10,100],"trj_freq": 10,"nsteps": 500,"ensemble": "npt","_idx": "04"},
+         {"sys_idx": [20,21,22,23],"temps": [250,300,350,400],"press": [1,10,100],"trj_freq": 10,"nsteps": 1000,"ensemble": "npt","_idx": "05"},
+         {"sys_idx": [24,25,26,27],"temps": [250,300,350,400],"press": [1,10,100],"trj_freq": 10,"nsteps": 2000,"ensemble": "npt","_idx": "06"},
+         {"sys_idx": [28,29,30,31],"temps": [250,300,350,400],"press": [1,10,100],"trj_freq": 10,"nsteps": 4000,"ensemble": "npt","_idx": "07"},
+
+         {"sys_idx": [32,33,34,35],"temps": [450,500,550,600],"press": [1,10,100],"trj_freq": 10,"nsteps": 500,"ensemble": "npt","_idx": "08"},
+         {"sys_idx": [36,37,38,39],"temps": [450,500,550,600],"press": [1,10,100],"trj_freq": 10,"nsteps": 1000,"ensemble": "npt","_idx": "09"},
+         {"sys_idx": [40,41,42,43],"temps": [450,500,550,600],"press": [1,10,100],"trj_freq": 10,"nsteps": 2000,"ensemble": "npt","_idx": "10"},
+         {"sys_idx": [44,45,46,47],"temps": [450,500,550,600],"press": [1,10,100],"trj_freq": 10,"nsteps": 4000,"ensemble": "npt","_idx": "11"},
+
+         {"sys_idx": [48,49,50,51],"temps": [650,700,750,800],"press": [1,10,100],"trj_freq": 10,"nsteps": 500,"ensemble": "npt","_idx": "12"},
+         {"sys_idx": [52,53,54,55],"temps": [650,700,750,800],"press": [1,10,100],"trj_freq": 10,"nsteps": 1000,"ensemble": "npt","_idx": "13"},
+         {"sys_idx": [56,57,58,59],"temps": [650,700,750,800],"press": [1,10,100],"trj_freq": 10,"nsteps": 2000,"ensemble": "npt","_idx": "14"},
+         {"sys_idx": [60,61,62,63],"temps": [650,700,750,800],"press": [1,10,100],"trj_freq": 10,"nsteps": 4000,"ensemble": "npt","_idx": "15"},
+
+         {"sys_idx": [0,1,2,3],"temps": [250,300,350],"press": [1000,10000],"trj_freq": 10,"nsteps": 500,"ensemble": "npt","_idx": "16"},
+         {"sys_idx": [4,5,6,7],"temps": [250,300,350],"press": [1000,10000],"trj_freq": 10,"nsteps": 1000,"ensemble": "npt","_idx": "17"},
+         {"sys_idx": [8,9,10,11],"temps": [250,300,350],"press": [1000,10000],"trj_freq": 10,"nsteps": 2000,"ensemble": "npt","_idx": "18"}
+     ],
+     
+     "fp_style": "vasp",
+     "shuffle_poscar": false,
+     "fp_task_max": 50,
+     "fp_task_min": 5,
+     "fp_accurate_threshold":0.9999,
+     "fp_pp_path": "./",
+     "fp_pp_files": ["POTCAR-Cs","POTCAR-Pb","POTCAR-Br"],
+     "fp_incar": "./INCAR"
+}
