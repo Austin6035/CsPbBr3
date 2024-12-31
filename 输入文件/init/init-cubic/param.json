@@ -1,0 +1,18 @@
+{
+    "stages":       [1,2,3,4],
+    "super_cell":	[1, 1, 1],
+    "elements":		["Cs","Pb","Br"],
+    "from_poscar":	true,
+    "from_poscar_path":	"./cubic222.poscar",
+    "potcars":		["../run/POTCAR-Cs","../run/POTCAR-Pb","../run/POTCAR-Br"],
+    "relax_incar": 	"./INCAR.rlx",
+    "md_incar" : 	"./INCAR.md",
+    "scale":		[0.90,0.92,0.94,0.96,0.98,1.00,1.02,1.04,1.06,1.08,1.10],
+    "skip_relax":	false,
+    "pert_numb":	10,
+    "md_nstep" : 	10,
+    "pert_box":		0.03,
+    "pert_atom":	0.02,
+    "coll_ndata":	2000, 
+    "_comment":		"that's all"
+}
