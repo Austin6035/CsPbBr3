@@ -1,0 +1,30 @@
+# 计算能量和力
+
+ISIF     =   2
+ISYM     =   2
+
+PREC     =   Normal
+ALGO     =   Fast
+
+ENCUT    =   400
+EDIFF    =   1E-06
+
+LREAL    =   Auto
+LWAVE    =   .FALSE.
+LCHARG   =   .FALSE.
+ISMEAR   =   0
+SIGMA    =   0.05
+
+IBRION   =   -1
+NSW      =   1
+EDIFFG   =   -0.02
+
+LVDW     =  .TURE.
+IVDW     =  11
+
+KGAMMA   =   .TRUE.
+KSPACING =   0.4
+
+NELM     =   300
+
+
